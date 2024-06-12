@@ -1,4 +1,4 @@
 # Automation SpiceJet 
 
 **Procedure** 
-Entering the Spicejet
+Testing the Flight booking web application spice 
